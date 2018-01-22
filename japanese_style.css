@@ -1,0 +1,109 @@
+.hero { 
+    background-color: #FFEEE9;
+    height: 700px;
+}
+
+h1 span {
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    transform: rotate(7deg);
+    
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 200px;
+    
+}
+
+h5 span {
+    display: block;
+    text-align: center;
+    transform: rotate(90deg);
+}
+
+p.citation {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+
+p.white {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.citation {
+    
+    padding-top: 10px;
+    
+}
+.artisttitle {
+    padding-top: 80%;
+    padding-left: 80%;
+}
+    
+.arttitle {
+    padding-top: 220%;
+    padding-right: 80%
+}
+
+.quote {
+    padding-right: 100%;
+}
+
+.quotetwo {
+    
+    padding-left: 300px;
+   
+}
+
+.intro {
+    padding-left: 1200%;
+}
+
+.break {
+    height: 200px;
+}
+
+
+.breaklarge {
+    
+    height: 500px;
+}
+.colorbreak {
+    background-color: #FFEEE9;
+    height: 60%;
+}
+
+.colorbreaktwo {
+    background-color: #FFEEE9;
+    height: 130%;
+}
+
+.pictureone img {
+    
+    width: 500px;
+    height: auto;
+}
+
+.picturetwo img {
+    
+    width: 500px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.picturethree img {
+    
+    width: 100%;
+    padding-top: 20%;
+}
